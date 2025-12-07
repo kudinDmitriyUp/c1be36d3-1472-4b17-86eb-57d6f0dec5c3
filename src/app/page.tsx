@@ -41,7 +41,7 @@ export default function LandingPage() {
           title="Premium Insurance Solutions for Your Future"
           description="Expert insurance guidance from an internationally educated professional. Secure your family and business with customized coverage plans."
           tag="International Insurance Advisor"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1765124163243-kojuxoba.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1765125692764-ybqab6h5.jpg"
           imageAlt="Modern luxury insurance office"
           buttons={[
             { text: "Schedule Consultation", href: "contact" },
